@@ -1,0 +1,5 @@
+google-cloud-pubsub
+google-auth
+configparser
+apache-beam[gcp]
+google-cloud-bigquery
